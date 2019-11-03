@@ -1,0 +1,2 @@
+model_checkpoint_path: "FSCCCC__ml100k-r-i30-u30-f10__2018__BaseRunner__optimizer=Adagrad__lr=0.05__l2=0.0001__dropout=0.2__batch_size=128.ckpt"
+all_model_checkpoint_paths: "FSCCCC__ml100k-r-i30-u30-f10__2018__BaseRunner__optimizer=Adagrad__lr=0.05__l2=0.0001__dropout=0.2__batch_size=128.ckpt"
