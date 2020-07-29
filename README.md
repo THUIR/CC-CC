@@ -2,7 +2,7 @@
 
 This is our implementation for the paper:
 
-*Shaoyun Shi, Min Zhang, Xinxing Yu, Yongfeng Zhang, Bin Hao, Yiqun Liu and Shaoping Ma. 2019. [Adaptive Feature Sampling for Recommendation with Missing Content Feature Values](https://github.com/THUIR/CC-CC) 
+*Shaoyun Shi, Min Zhang, Xinxing Yu, Yongfeng Zhang, Bin Hao, Yiqun Liu and Shaoping Ma. 2019. [Adaptive Feature Sampling for Recommendation with Missing Content Feature Values](https://dl.acm.org/doi/abs/10.1145/3357384.3357942) 
 In CIKM'19.*
 
 **Please cite our paper if you use our codes. Thanks!**
@@ -14,6 +14,7 @@ Author: Shaoyun Shi (shisy13 AT gmail.com)
   title={Adaptive Feature Sampling for Recommendation with Missing Content Feature Values},
   author={Shaoyun Shi, Min Zhang, Xinxing Yu, Yongfeng Zhang, Bin Hao, Yiqun Liu and Shaoping Ma},
   booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  pages={1451--1460},
   year={2019},
   organization={ACM}
 }
